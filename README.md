@@ -1,2 +1,2 @@
 # data_structures
-Data Structures class
+Data Structures class practice
